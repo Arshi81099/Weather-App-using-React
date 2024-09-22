@@ -22,3 +22,4 @@ A simple weather application built using React.
   npm run dev
 6. Open your browser and go to http://localhost:3000 to view the app.
    
+<img width="364" alt="Screenshot 2024-09-22 at 12 18 11 PM" src="https://github.com/user-attachments/assets/ed57c219-878e-4356-a0f0-cc0de9e07a26">
